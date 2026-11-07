@@ -197,3 +197,6 @@ This repository serves as the official landing page for Heroes & Generals. The s
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Heroes & Generals today!**
+
+---
+**Last updated:** 2026-11-07 02:31:56 UTC
