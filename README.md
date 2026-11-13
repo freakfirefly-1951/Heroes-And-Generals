@@ -199,4 +199,4 @@ This repository serves as the official landing page for Heroes & Generals. The s
 **Get the most recent version of Heroes & Generals today!**
 
 ---
-**Last updated:** 2026-11-13 02:22:04 UTC
+**Last updated:** 2026-11-13 10:29:29 UTC
